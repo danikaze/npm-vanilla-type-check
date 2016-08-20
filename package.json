@@ -1,7 +1,7 @@
 {
   "name": "vanilla-type-check",
-  "version": "1.0.0",
-  "description": "Vanilla JavaScript type checker",
+  "version": "1.0.1",
+  "description": "Basic type checker",
   "main": "index.js",
   "scripts": {
     "test": "node_modules/.bin/mocha --reporter spec"
@@ -10,9 +10,28 @@
     "type",
     "check",
     "vanilla",
-    "javascript"
+    "javascript",
+    "typecheck",
+    "isFunction",
+    "isNumber",
+    "isNumeric",
+    "isInt",
+    "isString",
+    "isArray",
+    "isObject",
+    "isEmptyObject",
+    "isDom"
   ],
-  "author": "@danikaze",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/danikaze/npm-vanilla-type-check.git"
+  },
+  "homepage": "https://github.com/danikaze/npm-vanilla-type-check",
+  "bugs": "https://github.com/danikaze/npm-vanilla-type-check/issues",
+  "author": {
+    "name": "Daniel Berlanga",
+    "email": "danikaze@gmail.com"
+  },
   "license": "ISC",
   "dependencies": {
     "is-empty-object": "^1.1.1",

@@ -4,7 +4,7 @@ Collection of functions for basic type checking.
 
 ## Install
 
-Install with [https://www.npmjs.com/](npm)
+Install with [npm](https://www.npmjs.com/)
 ```
 npm install vanilla-type-check
 ```
