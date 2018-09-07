@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "declaration": true,
+    "declarationDir": "lib",
+    "baseUrl": "./src",
+    "target": "es5",
+    "lib": ["es5", "dom"],
+    "moduleResolution": "node",
+    "outDir": "lib",
+    "preserveConstEnums": true,
+    "pretty": true,
+  },
+  "include": [
+    "src/*.ts",
+  ]
+}

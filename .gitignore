@@ -6,8 +6,9 @@
 .vscode/*
 src/.vscode/*
 node_modules
-bin
-design
+lib
+coverage
+.nyc_output
 
 # =========================
 # Operating System Files

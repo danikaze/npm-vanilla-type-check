@@ -1,0 +1,22 @@
+{
+  "check-coverage": true,
+  "per-file": true,
+  "include": [
+    "src/*.ts"
+  ],
+  "exclude": [
+    "src/index.ts",
+    "src/isDom.ts"
+  ],
+  "reporter": [
+    "lcov",
+    "text-summary"
+  ],
+  "extension": [
+    ".ts"
+  ],
+  "cache": false,
+  "all": false,
+  "temp-dir": "./coverage-tmp",
+  "report-dir": "./coverage"
+}
