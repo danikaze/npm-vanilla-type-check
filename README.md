@@ -47,6 +47,10 @@ Install dev dependencies
 npm install -d && npm test
 ```
 
+## 2.0.1
+
+- `isArray(x: any)` now returns `x is any[]` to let typescript compiler know that is `x` an array
+
 ## Changes from 1.0.1 to 2.0.0
 
 - Rewritten in typescript

@@ -6,6 +6,6 @@ const toString = {}.toString;
  * @param value value to check
  * @returns `true` if `obj` is an array
  */
-export function isArray(value: any): boolean {
+export function isArray(value: any): value is any[] {
   return toString.call(value) === '[object Array]';
 }

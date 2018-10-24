@@ -18,7 +18,7 @@
 
 ▸ **isInt**(value: *`any`*): `boolean`
 
-*Defined in [isInt.ts:7](https://github.com/danikaze/npm-vanilla-type-check/blob/1e73ec3/src/isInt.ts#L7)*
+*Defined in [isInt.ts:7](https://github.com/danikaze/npm-vanilla-type-check/blob/fa43ab6/src/isInt.ts#L7)*
 
 Check if a value is an integer number
 

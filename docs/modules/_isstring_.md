@@ -18,7 +18,7 @@
 
 ▸ **isString**(value: *`any`*): `boolean`
 
-*Defined in [isString.ts:7](https://github.com/danikaze/npm-vanilla-type-check/blob/1e73ec3/src/isString.ts#L7)*
+*Defined in [isString.ts:7](https://github.com/danikaze/npm-vanilla-type-check/blob/fa43ab6/src/isString.ts#L7)*
 
 Check if a value is a string
 

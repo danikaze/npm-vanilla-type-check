@@ -18,7 +18,7 @@
 
 ▸ **isEmpty**(value: *`any`*): `boolean`
 
-*Defined in [isEmpty.ts:11](https://github.com/danikaze/npm-vanilla-type-check/blob/1e73ec3/src/isEmpty.ts#L11)*
+*Defined in [isEmpty.ts:11](https://github.com/danikaze/npm-vanilla-type-check/blob/fa43ab6/src/isEmpty.ts#L11)*
 
 Check if an object or an array is empty.
 

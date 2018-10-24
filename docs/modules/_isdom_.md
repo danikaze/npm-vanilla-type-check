@@ -18,7 +18,7 @@
 
 ▸ **isDom**(value: *`any`*): `boolean`
 
-*Defined in [isDom.ts:7](https://github.com/danikaze/npm-vanilla-type-check/blob/1e73ec3/src/isDom.ts#L7)*
+*Defined in [isDom.ts:7](https://github.com/danikaze/npm-vanilla-type-check/blob/fa43ab6/src/isDom.ts#L7)*
 
 Check if something is an DOM element
 

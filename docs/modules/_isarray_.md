@@ -18,7 +18,7 @@
 
 ▸ **isArray**(value: *`any`*): `boolean`
 
-*Defined in [isArray.ts:9](https://github.com/danikaze/npm-vanilla-type-check/blob/1e73ec3/src/isArray.ts#L9)*
+*Defined in [isArray.ts:9](https://github.com/danikaze/npm-vanilla-type-check/blob/fa43ab6/src/isArray.ts#L9)*
 
 Check if a value is an array
 

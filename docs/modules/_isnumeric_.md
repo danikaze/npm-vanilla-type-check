@@ -18,7 +18,7 @@
 
 ▸ **isNumeric**(value: *`any`*): `boolean`
 
-*Defined in [isNumeric.ts:11](https://github.com/danikaze/npm-vanilla-type-check/blob/1e73ec3/src/isNumeric.ts#L11)*
+*Defined in [isNumeric.ts:11](https://github.com/danikaze/npm-vanilla-type-check/blob/fa43ab6/src/isNumeric.ts#L11)*
 
 Check if a value is numeric. Strings like `"123"` are considered numbers. Note that `Infinity` is not a number.
 

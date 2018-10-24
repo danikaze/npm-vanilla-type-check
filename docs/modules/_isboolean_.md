@@ -18,7 +18,7 @@
 
 ▸ **isBoolean**(value: *`any`*): `boolean`
 
-*Defined in [isBoolean.ts:7](https://github.com/danikaze/npm-vanilla-type-check/blob/1e73ec3/src/isBoolean.ts#L7)*
+*Defined in [isBoolean.ts:7](https://github.com/danikaze/npm-vanilla-type-check/blob/fa43ab6/src/isBoolean.ts#L7)*
 
 Check if a value is a boolean
 
