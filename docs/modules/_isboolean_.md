@@ -18,13 +18,13 @@
 
 ▸ **isBoolean**(value: *`any`*): `boolean`
 
-*Defined in [isBoolean.ts:7](https://github.com/danikaze/npm-vanilla-type-check/blob/fa43ab6/src/isBoolean.ts#L7)*
+*Defined in [isBoolean.ts:7](https://github.com/danikaze/npm-vanilla-type-check/blob/9e3df9d/src/isBoolean.ts#L7)*
 
 Check if a value is a boolean
 
 **Parameters:**
 
-| Param | Type | Description |
+| Name | Type | Description |
 | ------ | ------ | ------ |
 | value | `any` |  value to check |
 

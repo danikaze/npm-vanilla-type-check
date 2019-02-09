@@ -8,7 +8,7 @@ import { isArray } from './isArray';
  * @param value value to check
  * @returns `true` if `obj` is a numeric value
  */
-export function isNumeric(value: any): boolean {
+export function isNumeric(value: any): value is number | string {
   const realStringObj = value != null && value.toString();
   return !isArray(value) && (realStringObj - parseFloat(realStringObj) + 1) >= 0;
 }

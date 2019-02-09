@@ -18,13 +18,13 @@
 
 ▸ **isPlainObject**(value: *`any`*): `boolean`
 
-*Defined in [isPlainObject.ts:51](https://github.com/danikaze/npm-vanilla-type-check/blob/fa43ab6/src/isPlainObject.ts#L51)*
+*Defined in [isPlainObject.ts:51](https://github.com/danikaze/npm-vanilla-type-check/blob/9e3df9d/src/isPlainObject.ts#L51)*
 
 Check if a value is a plain object (that is, not a class instance, etc.)
 
 **Parameters:**
 
-| Param | Type | Description |
+| Name | Type | Description |
 | ------ | ------ | ------ |
 | value | `any` |  value to check |
 

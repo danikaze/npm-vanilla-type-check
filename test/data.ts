@@ -93,12 +93,12 @@ const data: DataDef[] = [
     assert: ['isArray'],
   },
   // {
-  //   value: document.createElement('p'),
+  //   value: new HTMLParagraphElement(),
   //   assert: ['isDom', 'isEmpty', 'isObject'],
   // },
   // {
   //   value: (() => {
-  //     const p = document.createElement('p');
+  //     const p = new HTMLParagraphElement();
   //     p.appendChild(document.createElement('span'));
   //     return p;
   //   })(),

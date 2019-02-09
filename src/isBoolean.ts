@@ -4,6 +4,6 @@
  * @param value value to check
  * @returns `true` if `obj` is a boolean (`true` or `false` values)
  */
-export function isBoolean(value: any): boolean {
+export function isBoolean(value: any): value is boolean {
   return value === true || value === false;
 }

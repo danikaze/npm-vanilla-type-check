@@ -18,13 +18,13 @@
 
 ▸ **isString**(value: *`any`*): `boolean`
 
-*Defined in [isString.ts:7](https://github.com/danikaze/npm-vanilla-type-check/blob/fa43ab6/src/isString.ts#L7)*
+*Defined in [isString.ts:7](https://github.com/danikaze/npm-vanilla-type-check/blob/9e3df9d/src/isString.ts#L7)*
 
 Check if a value is a string
 
 **Parameters:**
 
-| Param | Type | Description |
+| Name | Type | Description |
 | ------ | ------ | ------ |
 | value | `any` |  value to check |
 

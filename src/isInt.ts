@@ -4,7 +4,7 @@
  * @param value value to check
  * @returns `true` if `obj` is an integer
  */
-export function isInt(value: any): boolean {
+export function isInt(value: any): value is number {
   const type = typeof value;
 
   return (type === 'number' || type === 'string') &&

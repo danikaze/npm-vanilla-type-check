@@ -18,13 +18,13 @@
 
 ▸ **isObject**(value: *`any`*): `boolean`
 
-*Defined in [isObject.ts:7](https://github.com/danikaze/npm-vanilla-type-check/blob/fa43ab6/src/isObject.ts#L7)*
+*Defined in [isObject.ts:7](https://github.com/danikaze/npm-vanilla-type-check/blob/9e3df9d/src/isObject.ts#L7)*
 
 Check if a value is an object
 
 **Parameters:**
 
-| Param | Type | Description |
+| Name | Type | Description |
 | ------ | ------ | ------ |
 | value | `any` |  value to check |
 

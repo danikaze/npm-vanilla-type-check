@@ -18,13 +18,13 @@
 
 ▸ **isDom**(value: *`any`*): `boolean`
 
-*Defined in [isDom.ts:7](https://github.com/danikaze/npm-vanilla-type-check/blob/fa43ab6/src/isDom.ts#L7)*
+*Defined in [isDom.ts:7](https://github.com/danikaze/npm-vanilla-type-check/blob/9e3df9d/src/isDom.ts#L7)*
 
 Check if something is an DOM element
 
 **Parameters:**
 
-| Param | Type | Description |
+| Name | Type | Description |
 | ------ | ------ | ------ |
 | value | `any` |  value to check |
 

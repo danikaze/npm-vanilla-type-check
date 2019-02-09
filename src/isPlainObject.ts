@@ -48,7 +48,7 @@ function isObjectLike(value: any): boolean {
  * @param value value to check
  * @returns `true` if `obj` is a plain object
  */
-export function isPlainObject(value: any): boolean {
+export function isPlainObject(value: any): value is {} {
 	if (!isObjectLike(value) || baseGetTag(value) != '[object Object]') {
     return false
 	}

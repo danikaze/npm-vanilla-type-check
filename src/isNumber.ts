@@ -6,6 +6,6 @@
  * @param value value to check
  * @returns `true` if `obj` is a number
  */
-export function isNumber(value: any): boolean {
+export function isNumber(value: any): value is number {
   return !isNaN(value) && typeof value === 'number' || value instanceof Number;
 }

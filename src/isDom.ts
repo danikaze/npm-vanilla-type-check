@@ -4,7 +4,7 @@
  * @param value value to check
  * @returns `true` if `obj` is a DOM element
  */
-export function isDom(value: any): boolean {
+export function isDom(value: any): value is HTMLElement {
   try {
     return value instanceof HTMLElement;
   } catch(e) {

@@ -18,13 +18,13 @@
 
 ▸ **isEmpty**(value: *`any`*): `boolean`
 
-*Defined in [isEmpty.ts:11](https://github.com/danikaze/npm-vanilla-type-check/blob/fa43ab6/src/isEmpty.ts#L11)*
+*Defined in [isEmpty.ts:11](https://github.com/danikaze/npm-vanilla-type-check/blob/9e3df9d/src/isEmpty.ts#L11)*
 
 Check if an object or an array is empty.
 
 **Parameters:**
 
-| Param | Type | Description |
+| Name | Type | Description |
 | ------ | ------ | ------ |
 | value | `any` |  value to check |
 
