@@ -1,6 +1,5 @@
 {
   "check-coverage": true,
-  "per-file": true,
   "include": [
     "src/*.ts"
   ],
