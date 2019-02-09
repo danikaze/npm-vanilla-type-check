@@ -47,6 +47,9 @@ Install dev dependencies
 npm install -d && npm test
 ```
 
+## 2.0.2
+- Other functions also return `value is TYPE`.
+
 ## 2.0.1
 
 - `isArray(x: any)` now returns `x is any[]` to let typescript compiler know that is `x` an array
